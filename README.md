@@ -2,6 +2,7 @@
 # Pakistan Suicide Rate Analysis & Forecasting
 
 Access the Dashboard on https://tooba26-suicide-rate-analysis-pk-app-wfglau.streamlit.app/ 
+Demo: https://drive.google.com/file/d/1YqsiDPunsj1t-6ug7bXRIU0TVTUTjy5q/view?usp=drive_link 
 
 A Jupyter/Colab notebook that analyzes historical suicide rate data for Pakistan (male, female, and overall), visualizes trends, builds a simple machine learning model to forecast future rates, and includes the code for a Streamlit dashboard front end.
 
