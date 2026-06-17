@@ -1,0 +1,5 @@
+streamlit
+polars
+matplotlib
+scikit-learn
+numpy
